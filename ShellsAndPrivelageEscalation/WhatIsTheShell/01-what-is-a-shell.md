@@ -1,4 +1,4 @@
-# What Is a Shell? (Simple Notes)
+# What Is a Shell?
 
 - A shell is a program that lets us use a command-line interface (CLI).
 - Common Linux shells: `bash`, `sh`.
