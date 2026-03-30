@@ -51,4 +51,4 @@
 
 - **PayloadsAllTheThings:** large collection of payload ideas.
 - **PentestMonkey Reverse Shell Cheat Sheet:** popular quick reference.
-- **SecLists** while it is mainly used for wordlists, it also contains useful shell files.
+- **SecLists:** while it is mainly used for wordlists, it also contains useful shell files.
