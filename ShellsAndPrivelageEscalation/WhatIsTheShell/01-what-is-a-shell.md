@@ -11,9 +11,9 @@
 
 ## Two Main Shell Types
 
-- **Reverse shell:**
+- **Reverse Shell:**
 	- The target machine connects back to us.
 	- We receive command-line access from that connection.
-- **Bind shell:**
+- **Bind Shell:**
 	- The target machine opens a port.
 	- We connect to that open port to run commands.
