@@ -1,23 +1,22 @@
-# Tools for Getting Shells (Simple Notes)
+# Tools for Obtaining Shells
 
-- To get shells, we need:
-	- Shell payload/code (malicious command to run)
-	- A tool to send/receive and interact with the shell
+- **Shell Payload:** a malicious command to run
+- We need a tool to send shell payloads, receive data, and interact with the shell
 
 ## Netcat
 
-- Known as the "Swiss Army knife" of networking.
-- Can do many network tasks (for example, banner grabbing).
-- In this room, it is mainly used to:
-	- Receive reverse shells
-	- Connect to bind shell ports
+- The *swiss army knife* of networking.
+- Can do many network tasks
+    - Banner grabbing
+    - Receive reverse shells
+    - Connect to bind shell ports
 - Netcat shells are often unstable by default.
-- Stability can be improved (covered later).
+- Stability can be improved
 
 ## Socat
 
-- Similar to Netcat, but more powerful.
-- Socat shells are usually more stable than Netcat shells.
+- Advanced version of Netcat
+- Usually more stable than Netcat shells.
 - Two main drawbacks:
 	- Syntax is harder.
 	- Usually not installed by default on Linux systems.

@@ -1,6 +1,6 @@
 # What Is a Shell?
 
-- A shell is a program that lets us use a command-line interface (CLI).
+- **Shell:** a program that lets us use a command-line interface (CLI).
 - Common Linux shells: `bash`, `sh`.
 - Common Windows shells: `cmd.exe`, `PowerShell`.
 
@@ -11,9 +11,9 @@
 
 ## Two Main Shell Types
 
-- Reverse shell:
+- **Reverse shell:**
 	- The target machine connects back to us.
 	- We receive command-line access from that connection.
-- Bind shell:
+- **Bind shell:**
 	- The target machine opens a port.
 	- We connect to that open port to run commands.

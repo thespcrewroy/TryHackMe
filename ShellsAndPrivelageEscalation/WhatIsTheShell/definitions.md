@@ -1,0 +1,3 @@
+* **Command Line Interface (CLI):** allows users to interact with a computer by typing text-based commands. Rather than clicking icons or menus, users enter commands using a keyboard to perform tasks. CLIs are commonly used for their speed, flexibility, and control.
+* **Linux**: a command line operating system based on unix. There are multiple operating systems that are based on Linux.
+* **Powershell**: a task automation and configuration management program from Microsoft, consisting of a command-line shell and the associated scripting language.
